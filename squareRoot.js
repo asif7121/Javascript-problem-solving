@@ -13,6 +13,4 @@ let input = 16;
 let squareRoot = findSquareRoot(input);
 console.log(`The square root of ${input} is ${squareRoot}`);
 
-input = "hello";
-squareRoot = findSquareRoot(input);
-console.log(`The result for the input "${input}" is: ${squareRoot}`);
+
